@@ -1,6 +1,6 @@
 # EX3 Write a program to count the number of digits in an integer.
 ## AIM:
-To write a C program to implement Tower of Hanoi
+To Write a program to count the number of digits in an integer.
 
 ## Algorithm
 ```
